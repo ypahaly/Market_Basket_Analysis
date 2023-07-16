@@ -1,1 +1,1 @@
-# Stock Market Dashboard
+# Hospital Management System
